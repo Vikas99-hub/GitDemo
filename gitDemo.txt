@@ -1,0 +1,11 @@
+for first time need to configure github in our system
+git config --global user.name "Vikas99-hub"
+git config --global user.email "hvvikas89@gmail.com"
+git config --global color.ui auto
+
+mandatory commands
+git init
+git remote add origin https://github.com/Vikas99-hub/GitDemo.git
+
+to pull
+git pull origin main
